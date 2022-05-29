@@ -9,4 +9,4 @@ Liist00/Liist00 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 - HI, I'M @ACHI00
-- FUCK, @ZADDY :) . . .
+-. . .
